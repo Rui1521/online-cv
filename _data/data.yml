@@ -15,7 +15,7 @@ sidebar:
     email: wang.rui4@husky.neu.edu
     phone: 
     website: rui1521.github.io/online-cv/ #do not add http://
-    linkedin: alandoe
+    linkedin: rui-ray-wang-41a398149
     github: Rui1521
     gitlab:
     bitbucket:
@@ -47,36 +47,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am PhD student in Computer Science at Northeastern University, advised by Rose Yu. 
+      I am interested in Spatiotemporal Learning and physics-informed deep learning.
 
       Second paragraph if required.
 
 education:
-    - degree: PhD student in Computer Science
+    - degree: PhD in Computer Science
       university: Northeastern University
       time: 2019 - Present
+      GPA: GPA: 4.0
       details: |
-        Research Areas: deep learning for spatiotemporal data, physics-informed deep learning
+        
 
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MS in Data Science
+      university: Northeastern University
+      time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Lead Developer
