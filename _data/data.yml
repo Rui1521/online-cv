@@ -71,21 +71,26 @@ experiences:
       time: 2019.1 - 2019.4
       company: Northeastern University, Boston, MA
       details: |
-          - Collaborated with Abiomed Inc.
-          - Conducted comprehensive experiments and evaluations on different types of data with various deep sequence models 
+          - Collaborated with Abiomed Inc., and studied the applications of deep sequence models 
           on the task of long-term forecast of patients’ Aortic Pressure and Heart Rate.
           
-    - role: Research Assistant in Statistical Analysis
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Teaching Assistant (Special Topics in Artificial Intelligence)
+      time: 2019.1 - 2019.4
+      company: Northeastern University, Boston, MA
+    
+    - role: Data Science Co-op
+      time: 2018.7 - 2018.12
+      company: Abiomed Inc., Danvers, MA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Applied deep sequence models to the estimation of Left Ventricular Volume over time.
+          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
+          
+    - role: Research Assistant in Statistical Analysis
+      time: 2018.4 - 2018.11
+      company: Northeastern University, Boston, MA
+      details: |
+          - Proposed a new procedure for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
+          
 projects:
     title: Projects
     intro: >
