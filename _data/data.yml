@@ -38,8 +38,10 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a PhD student in Computer Science at Northeastern University, advised by [Rose Yu](http://roseyu.com/).
-      My research interests include spatiotermporal learning and physics-informed deep learning.
+      I am a PhD student in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/), 
+      advised by [Rose Yu](http://roseyu.com/).
+      My research interests include [spatiotermporal learning](https://stl.khoury.northeastern.edu/) and 
+      physics-informed deep learning.
       
 education:
     - degree: PhD student in Computer Science
@@ -102,7 +104,7 @@ publications:
     papers:
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu
-        conference: Under review as a conference paper at ICLR 2020
+        conference: Under review
 
 skills:
     title: Skills &amp; Proficiency
