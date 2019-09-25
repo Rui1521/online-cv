@@ -56,40 +56,30 @@ education:
       university: University of California, Berkeley
       time: 2016 
       details: |
-          - GPA: 3.8      
+           
     - degree: Bachelor of Science in Applied Mathematics
       university: Huazhong University of Science and Technology
       time: 2013 - 2017
       details: |
           - GPA: 3.8
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Machine Learning Research Intern
+      time: 2019.5 - 2019.8
+      company: Lawrence Berkeley National Laboratory, Berkeley, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Researched the challenging task of spatiotemporal modeling of highly-nonlinear turbulent flows.
+          - Developed novel physics-informed deep learning models for turbulence predictions.
+          
+    - role: Research Assistant in Deep Learning
+      time: 2019.1 - 2019.4
+      company: Northeastern University, Boston, MA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+          - Collaborated with Abiomed Inc.
+          - Conducted comprehensive experiments and evaluations on different types of data with various deep sequence models 
+          on the task of long-term forecast of patients’ Aortic Pressure and Heart Rate.
+          
+    - role: Research Assistant in Statistical Analysis
       time: 2012 - 2014
       company: Amazon, London
       details: |
