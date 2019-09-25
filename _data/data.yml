@@ -43,7 +43,7 @@ career-profile:
       
 education:
     - degree: PhD student in Computer Science
-      university: Northeastern University         GPA 4.0     
+      university: Northeastern University    //     GPA 4.0     
       time: 2019 - Present
       details: |
           - 
