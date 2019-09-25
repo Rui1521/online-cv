@@ -122,8 +122,11 @@ skills:
       - name: Python & R
         level: 99%
       
-      - name: Pytorch & Tensor Flow & Keras & NLTK & scikit-learn
+      - name: Pytorch & & Keras 
         level: 95%
+      
+      - name: Tensor Flow & NLTK & scikit-learn
+        level: 80%
         
       - name: C & C++ & C# & SQL
         level: 60%
