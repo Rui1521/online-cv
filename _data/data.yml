@@ -43,16 +43,11 @@ career-profile:
       
 education:
     - degree: PhD student in Computer Science
-      university: Northeastern University.         GPA: 4.0
+      university: Northeastern University
       time: 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - GPA: 4.0
+          
     - degree: Master of Science in Data Science
       university: Northeastern University
       time: 2017 - 2019
