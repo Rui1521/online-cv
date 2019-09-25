@@ -31,24 +31,15 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Basketball
-        link:
-
-      - item: 
-        link:
-
-      - item: 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       I am PhD student in Computer Science at Northeastern University, advised by Rose Yu. 
-      I am interested in Spatiotemporal Learning and physics-informed deep learning.
+      I am interested in deep spatiotemporal learning and physics-informed deep learning.
 
       Second paragraph if required.
 
@@ -58,15 +49,25 @@ education:
       time: 2019 - Present
       GPA: GPA: 4.0
       details: |
-        
-
-          - Bullet point
-          - Bullet point
-
+      
     - degree: MS in Data Science
       university: Northeastern University
       time: 2017 - 2019
+      GPA: GPA: 3.9
       details: |
+      
+    - degree: International Exchange Student 
+      university: University of California, Berkeley
+      time: 2016
+      details: |  
+      
+    - degree: BS in Applied Mathematics
+      university: Huazhong University of Science and Technology
+      time: 2013 - 2017
+      GPA: GPA: 3.8
+      details: |
+      
+    
 
 experiences:
     - role: Lead Developer
