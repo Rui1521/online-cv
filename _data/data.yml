@@ -69,7 +69,7 @@ experiences:
           - Researched the challenging task of spatiotemporal modeling of nonlinear turbulent flows.
           - Developed novel physics-informed deep learning models for turbulence predictions.
           
-    - role: Research Assistant in Deep Learning
+    - role: Research Assistant
       time: 2019.1 - 2019.4
       company: Northeastern University, Boston, MA
       details: |
@@ -87,13 +87,13 @@ experiences:
           - Applied deep sequence models to the estimation of Left Ventricular Volume over time.
           - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
           
-    - role: Research Assistant in Statistical Analysis
+    - role: Research Assistant
       time: 2018.4 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
-          - Proposed a new procedure for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
+          - Proposed a new Beta-Binomial model for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
      
-    - role: Content Editor (Game Data Science)
+    - role: Content Editor
       time: 2018.9 - 2018.12
       company: Northeastern University, Boston, MA   
       
@@ -113,17 +113,17 @@ skills:
       - name: Python & R
         level: 99%
       
-      - name: Pytorch & & Keras 
+      - name: Pytorch & NLTK & scikit-learn
         level: 95%
       
-      - name: Tensor Flow & NLTK & scikit-learn
+      - name: Tensor Flow & Keras
         level: 80%
         
       - name: C & C++ & C# & SQL
-        level: 60%
+        level: 50%
 
       - name: Matlab & JavaScript
-        level: 50%
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
