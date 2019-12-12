@@ -19,7 +19,7 @@ sidebar:
     github: Rui1521
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: Rayw1521
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,7 +33,9 @@ sidebar:
 
     interests:
       - item: Basketball
-        link:
+        link: 
+      - item: Ping-pong
+        link: 
         
 career-profile:
     title: BIOGRAPHY
@@ -45,7 +47,8 @@ career-profile:
       
 education:
     - degree: PhD student in Computer Science
-      university: Northeastern University  //  GPA 4.0
+      university: Northeastern University  
+      GPA: 4.0
       time: 2019 - Present
    
     - degree: Master of Science in Data Science
