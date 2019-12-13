@@ -105,7 +105,7 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: [Towards Physics-informed Deep Learning for Turbulent Flow Prediction])(https://openreview.net/forum?id=Hkg5lAEtvS)
+      - title: [Towards Physics-informed Deep Learning for Turbulent Flow Prediction](https://openreview.net/forum?id=Hkg5lAEtvS)
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu
         conference: Oral Presentation at [ML4PS](https://ml4physicalsciences.github.io/)
 
