@@ -191,16 +191,19 @@ p {
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 500;
+        font-weight: 700;
     }
     .time {
         position: absolute;
+	font-size: 16px;
         right: 0;
         top: 0;
         color: $text-grey;
     }
     .company, .university {
+	font-style: italic;
         margin-bottom: 10px;
+	font-size: 16px;
         color: $text-grey;
     }
 
