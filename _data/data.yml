@@ -71,14 +71,14 @@ experiences:
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Special Topics in Artificial Intelligence
+          - Special topics in artificial intelligence
    
     - role: Data Science Co-op
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
           - Left ventricular volume estimation and prediction with seq2seq models.
-          - Healthy Heart Index (based on SVM) for predicting patients’ survival probability.
+          - Healthy Heart Index: patients’ survival probability prediction with SVM.
           
     - role: Content Editor 
       time: 2018.09 - 2018.12
