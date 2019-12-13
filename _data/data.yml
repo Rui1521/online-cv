@@ -25,16 +25,16 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Chinese
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: English
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Basketball
+      - item: 
         link: 
-      - item: Ping-pong
+      - item: 
         link:  
  
 career-profile:
