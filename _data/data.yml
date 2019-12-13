@@ -115,8 +115,21 @@ projects:
     assignments:
       - title: 
         link: 
-        tagline: Graduate Fellowship. (2019)
+        tagline: Graduate Fellowship (2019)
+      - title: 
+        link: 
+        tagline: Wayfair Datathon 3rd Place (2018)
+      - title: 
+        link: 
+        tagline: Outstanding Graduate (2017)
+      - title: 
+        link: 
+        tagline: Scholarship for Outstanding Learning (2013 - 2017)
+      - title: 
+        link: 
+        tagline: National Scholarship (2014)
         
+      
 publications:
     title: Publications
     intro:
