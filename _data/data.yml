@@ -109,7 +109,13 @@ experiences:
       company: Northeastern University, Boston, MA
       details: |
           - A new scheme based on Beta-Binomial model for evaluating TRACE data.
-          
+projects:
+    title: Awards/Honors
+    intro: 
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
     title: Publications
