@@ -48,11 +48,11 @@ career-profile:
       physics-informed deep learning.
       
 education:
-    - degree: PhD student in Computer Science
+    - degree: PhD stud. in Computer Science
       university: Northeastern University  
       time: 2019 - Present
    
-    - degree: Master of Science in Data Science
+    - degree: M.S. in Data Science
       university: Northeastern University 
       time: 2017 - 2019
   
@@ -60,7 +60,7 @@ education:
       university: University of California, Berkeley
       time: 2016 
            
-    - degree: Bachelor of Science in Applied Mathematics
+    - degree: B.S. in Applied Mathematics
       university: Huazhong University of Science and Technology
       time: 2013 - 2017
 
