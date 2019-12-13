@@ -120,10 +120,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & R
-        level: 99%
-      
-      - name: Pytorch & NLTK & scikit-learn
+      - name: Python & Pytorch 
         level: 99%
       
       - name: Tensor Flow & Keras
