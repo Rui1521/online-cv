@@ -76,7 +76,7 @@ experiences:
       company: Abiomed Inc., Danvers, MA
       details: |
           - Left ventricular volume estimation and prediction with seq2seq models.
-          - Healthy Heart Index (based on SVM) for predicting patients’ survival probabilities.
+          - Healthy Heart Index (based on SVM) for predicting patients’ survival probability.
           
     - role: Content Editor (Game Data Science)
       time: 2018.09 - 2018.12
