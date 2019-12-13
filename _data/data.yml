@@ -109,7 +109,7 @@ publications:
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu
         conference: Oral Presentation at [ML4PS](https://ml4physicalsciences.github.io/)
 
-      - title: [Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data](https://www.frontiersin.org/articles/10.3389/fgene.2018.00653/full)
+      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan
         conference: Frontiers in Genetics
 
