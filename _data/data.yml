@@ -60,7 +60,7 @@ experiences:
       time: 2019.05 - 2019.08
       company: Lawrence Berkeley National Laboratory, Berkeley, CA
       details: |
-          - Towards physics-informed deep learning for the spatiotemporal modeling of turbulent flows
+          - Towards physics-informed deep learning for turbulent flow prediction
           
     - role: Research Assistant 
       time: 2019.01 - 2019.04
@@ -91,7 +91,7 @@ experiences:
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
-          - A new scheme based on Beta-Binomial model for systematically evaluating TRACE data.
+          - A new scheme based on Beta-Binomial model for evaluating TRACE data.
           
 
 publications:
