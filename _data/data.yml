@@ -50,11 +50,12 @@ career-profile:
 education:
     - degree: PhD stud. in Computer Science
       university: Northeastern University  
-      gpa: GPA
+      gpa: GPA: 4.0
       time: 2019 - Present
    
     - degree: M.S. in Data Science
       university: Northeastern University 
+      gpa: GPA: 3.9
       time: 2017 - 2019
   
     - degree: International Exchange Student 
@@ -63,6 +64,7 @@ education:
            
     - degree: B.S. in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
+      gpa: GPA: 3.8
       time: 2013 - 2017
 
           
