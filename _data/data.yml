@@ -75,8 +75,8 @@ experiences:
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
-          - Applied seq2seq models to the estimation of Left Ventricular Volume over time.
-          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
+          - Left ventricular volume estimation and prediction with seq2seq models.
+          - Healthy Heart Index (based on SVM) for predicting patients’ survival probabilities.
           
     - role: Content Editor (Game Data Science)
       time: 2018.09 - 2018.12
@@ -86,10 +86,8 @@ experiences:
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
-          - Proposed a novel scheme based on Beta-Binomial model for evaluating TRACE data.
+          - A new scheme based on Beta-Binomial model for systematically evaluating TRACE data.
           
-    
-      
 
 publications:
     title: Publications
