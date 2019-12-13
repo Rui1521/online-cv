@@ -137,12 +137,7 @@ publications:
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         link: https://openreview.net/forum?id=Hkg5lAEtvS
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu
-        conference: Oral Presentation at ML4PS, under review as a conference paper at ICLR 2020.
-        
-      - title: Towards Physics-informed Deep Learning for Spatiotemporal Modeling of Turbulent Flows
-        link: 
-        authors: Rui Wang, Adrian Albert, Karthik Kashinath, Mustafa Mustafa,  Rose Yu
-        conference: Climate Informatics 2019
+        conference: Oral Presentation at ML4PS, Climate Informatics 2019
 
       - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan
