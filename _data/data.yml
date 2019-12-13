@@ -50,6 +50,7 @@ career-profile:
 education:
     - degree: PhD stud. in Computer Science
       university: Northeastern University  
+      gpa: GPA
       time: 2019 - Present
    
     - degree: M.S. in Data Science
