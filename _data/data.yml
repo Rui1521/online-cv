@@ -28,9 +28,10 @@ career-profile:
     title: BIOGRAPHY
     summary: |
       I am a first-year PhD student in Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/), 
-      advised by [Rose Yu](http://roseyu.com/).
+      advised by [Prof. Rose Yu](http://roseyu.com/). I received my BS in Applied Mathematics from 
+      [Huazhong University of Science and Technology])(http://english.hust.edu.cn/).
       My research interests include [spatiotemporal learning](https://stl.khoury.northeastern.edu/) and 
-      physics-informed deep learning.
+      physics-informed deep learning. 
       
 education:
     - degree: Ph.D. student in CompSci
@@ -61,11 +62,11 @@ experiences:
           - Researched the challenging task of spatiotemporal modeling of nonlinear turbulent flows.
           - Developed novel physics-informed deep learning models for turbulence predictions.
           
-    - role: Research Assistant
+    - role: Research Assistant (Collaborated with Abiomed Inc.)
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Collaborated with Abiomed Inc., and studied the applications of deep sequence models on the task of long-term forecast of patients’ Aortic Pressure and Heart Rate.
+          - Studied the applications of deep sequence models on the task of long-term forecast of patients’ Aortic Pressure and Heart Rate.
           
     - role: Teaching Assistant (Special Topics in Artificial Intelligence)
       time: 2019.01 - 2019.04
@@ -75,7 +76,7 @@ experiences:
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
-          - Applied deep sequence models to the estimation of Left Ventricular Volume over time.
+          - Applied Seq2seq models to estimate Left Ventricular Volume over time.
           - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
           
     - role: Content Editor (Game Data Science)
