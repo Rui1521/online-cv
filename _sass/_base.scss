@@ -3,8 +3,8 @@ body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 15px;
-    padding: 30px;
+    font-size: 14px;
+    padding: 50px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -103,7 +103,7 @@ p {
         margin-bottom: 15px;
     }
     .degree {
-        font-size: 15px;
+        font-size: 16px;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -118,7 +118,7 @@ p {
             color: rgba(256, 256, 256, 0.7);
             font-weight: 550;
 	    font-size: 14px;
-            margin-bottom: 0.3px;
+            margin-bottom: 0.6px;
             margin-top: 0;
         }
 	.gpa {
@@ -227,8 +227,8 @@ p {
     }
 
     .publication-title {
-        font-size: 16px;
-        font-weight: 500;
+        font-size: 15px;
+        font-weight: 550;
         color: $text-color;
         margin-bottom: 1px;
     }
