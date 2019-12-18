@@ -195,7 +195,7 @@ p {
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 550;
+        font-weight: 520;
     }
     .time {
         position: absolute;
@@ -207,7 +207,8 @@ p {
     .company, .university {
 	font-style: italic;
         margin-bottom: 10px;
-	font-size: 15px;
+	font-size: 14px;
+	font-weight: 520;
         color: $text-grey;
     }
 
