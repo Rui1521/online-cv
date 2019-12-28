@@ -135,7 +135,7 @@ publications:
     intro:
     papers:
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
-        link: "#https://arxiv.org/abs/1911.08655"
+        link: "#arxiv.org/abs/1911.08655"
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu
         conference: Oral Presentation at ML4PS, Climate Informatics 2019
 
