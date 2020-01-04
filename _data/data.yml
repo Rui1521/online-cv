@@ -96,7 +96,7 @@ experiences:
       company: Abiomed Inc., Danvers, MA
       details: |
           - Left ventricular volume estimation and prediction with seq2seq models.
-          - Healthy Heart Index: patients’ survival probability prediction with SVM.
+          - Healthy Heart Index: patients’ survival probability prediction model based on SVM.
           
     - role: Content Editor 
       time: 2018.09 - 2018.12
@@ -139,7 +139,7 @@ publications:
         conference: Oral Presentation at ML4PS, Climate Informatics 2019
 
       - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
-        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. (*Equal Contributions)
+        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan.
         conference: Frontiers in Genetics 2018
 
 skills:
