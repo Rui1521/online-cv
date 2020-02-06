@@ -134,9 +134,13 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
+        authors: Rui Wang*, Robin Walters*, Rose Yu.
+        conference: under review at ICML2020
+        
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: Oral Presentation at ML4PS, Climate Informatics 2019
+        conference: under review at KDD2020, Oral Presentation at ML4PS, Climate Informatics 2019
 
       - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan.
