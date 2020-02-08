@@ -67,7 +67,22 @@ education:
       university: Huazhong Uni. of Sci. and Tech.
       time: 2013 - 2017
 
-          
+publications:
+    title: Publications
+    intro:
+    papers:
+      - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
+        authors: Rui Wang*, Robin Walters*, Rose Yu.
+        conference: Under review at ICML 2020
+        
+      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
+        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
+        conference: Under review at KDD 2020, Oral Presentation at ML4PS, Climate Informatics 2019
+
+      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
+        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan.
+        conference: Frontiers in Genetics 2018
+        
 experiences:
     - role: Machine Learning Research Intern
       time: 2019.05 - 2019.08
@@ -105,12 +120,13 @@ experiences:
       company: Northeastern University, Boston, MA
       details: |
           - A new scheme based on Beta-Binomial model for evaluating TRACE data.
+          
 projects:
     title: Awards/Honors
     intro: 
     assignments:
       - title: 
-        link: 
+        link: "https://arxiv.org/abs/1911.08655"
         tagline: Graduate Fellowship (2019)
       - title: 
         link: 
@@ -125,23 +141,6 @@ projects:
         link: 
         tagline: National Scholarship (2014)
         
-      
-publications:
-    title: Publications
-    intro:
-    papers:
-      - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
-        authors: Rui Wang*, Robin Walters*, Rose Yu.
-        conference: Under review at ICML 2020
-        
-      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
-        link: "https://arxiv.org/abs/1911.08655"
-        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: Under review at KDD 2020, Oral Presentation at ML4PS, Climate Informatics 2019
-
-      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
-        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan.
-        conference: Frontiers in Genetics 2018
 
 skills:
     title: Skills &amp; Proficiency
