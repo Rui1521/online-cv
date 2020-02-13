@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: wang.rui4@husky.neu.edu
     phone: 
-    website:  #do not add http://
-    scholar: scholar.google.com/citations?user=JXG5QZwAAAAJ&hl=en
+    website: scholar.google.com/citations?user=JXG5QZwAAAAJ&hl=en 
+    scholar: 
     linkedin:
     github: Rui1521
     gitlab:
@@ -69,7 +69,7 @@ education:
       time: 2013 - 2017
 
 publications:
-    title: Publications
+    title: Publications[http://scholar.google.com/citations?user=JXG5QZwAAAAJ&hl=en]
     intro:
     papers:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
