@@ -93,55 +93,60 @@ experiences:
       time: 2019.05 - 2019.08
       company: Lawrence Berkeley National Laboratory, Berkeley, CA
       details: |
-          - Towards physics-informed deep learning for turbulent flow prediction
+          - Researched the challenging task of spatiotemporal modeling of velocity fields for nonlinear turbulent flows.
+          - Developed a novel hybrid model, TF-net, that unifies RANS-LES coupling with custom-designed neural networks.
           
     - role: Research Assistant 
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Long-term forecast of patients’ aortic pressure with deep sequence learning.
+          - Studied the applications of deep sequence models on long-term forecast of patients’ Aortic Pressure.
+          - Conducted comprehensive experiments and evaluations with various deep sequence models, including Vector Regression, Recurrent Seq2Seq, Temporal CNN, Transformer, Multiscale NN, etc.
           
-    - role: Teaching Assistant 
+    - role: Teaching Assistant
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Special topics in artificial intelligence
+          - Special Topics in Artificial Intelligence
+          - Organized weekly paper discussion and assisted students with implementation of deep learning models.
    
-    - role: Data Science Co-op
+    - role: Data Science Co-op 
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
-          - Left ventricular volume estimation and prediction with seq2seq models.
-          - Healthy Heart Index: patients’ survival probability prediction model based on SVM.
+          - Best Co-op Prize
+          - Conducted research on forecasting physiological parameters with various deep sequence models.
+          - Applied Bidirectional LSTMs innovatively to the estimation of left ventricular volume time series.
+          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities in the next hour.
           
     - role: Content Editor 
       time: 2018.09 - 2018.12
       company: Northeastern University, Boston, MA   
       details: |
           - Game Data Science
+          - Edited and reviewed all content related to machine learning theories.
           
     - role: Research Assistant
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
-          - A new scheme based on Beta-Binomial model for evaluating TRACE data.
+          - Proposed a new scheme for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
+          - Applied Binomial Regression Model and Likelihood Ratio test to finding the comparison group for each section.
+          - Evaluated each section based on the Beta-Binomial model and proportions of 5’s and within its comparison group.
           
 projects:
     title: Awards/Honors
     intro: 
     assignments:
       - title: 
-        link: https://arxiv.org/abs/1911.08655
-        tagline: Graduate Fellowship (2019)
-      - title: 
         link: 
-        tagline: Wayfair Datathon 3rd Place (2018)
+        tagline: Graduate Fellowship (2019)
       - title: 
         link: 
         tagline: Outstanding Graduate (2017)
       - title: 
         link: 
-        tagline: Scholarship for Outstanding Learning (2013 - 2017)
+        tagline: Scholarship for Outstanding Learning (2014 - 2017)
       - title: 
         link: 
         tagline: National Scholarship (2014)
@@ -155,13 +160,13 @@ skills:
         level: 99%
       
       - name: Tensor Flow & Keras
-        level: 70%
+        level: 60%
         
       - name: C & C++ & C# & SQL
-        level: 50%
+        level: 40%
 
       - name: Matlab & JavaScript
-        level: 40%
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
