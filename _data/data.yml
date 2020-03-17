@@ -25,22 +25,22 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-    languages:
-      - idiom: 
-        level: 
+#     languages:
+#       - idiom: 
+#         level: 
 
-      - idiom: 
-        level: 
+#       - idiom: 
+#         level: 
 
-    interests:
-      - item:
-        link:
+#     interests:
+#       - item:
+#         link:
 
-      - item: 
-        link:
+#       - item: 
+#         link:
 
-      - item: 
-        link:
+#       - item: 
+#         link:
 
 career-profile:
     title: BIOGRAPHY
