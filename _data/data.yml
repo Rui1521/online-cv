@@ -74,11 +74,15 @@ publications:
     papers:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         authors: Rui Wang*, Robin Walters*, Rose Yu.
-        conference: Under review at ICML 2020
+        conference: Under review
+        
+      - title: Aortic Pressure Forecasting with Deep Sequence Learning
+        authors: Rui Wang, Eliza Huang, Uma Chandrasekaran, Rose Yu.
+        conference: Under review
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: Under review at KDD 2020, Oral Presentation at ML4PS
+        conference: Under review, Oral Presentation at ML4PS
         
       - title: Towards Physics-informed Deep Learning for Spatiotemporal Modeling of Turbulent Flows 
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
