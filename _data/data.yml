@@ -73,7 +73,7 @@ publications:
     intro:
     papers:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
-        authors: Rui Wang*, Robin Walters*, Rose Yu.
+        authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
         conference: Under review
         
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
@@ -89,7 +89,7 @@ publications:
         conference: Climate Informatics 2019
 
       - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
-        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan.
+        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. (*equal contribution)
         conference: Frontiers in Genetics 2018
         
 experiences:
