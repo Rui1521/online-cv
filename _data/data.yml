@@ -107,11 +107,10 @@ experiences:
           - Studied the applications of deep sequence models on long-term forecast of patients’ Aortic Pressure.
           - Conducted comprehensive experiments and evaluations with various deep sequence models, including Vector Regression, Recurrent Seq2Seq, Temporal CNN, Transformer, Multiscale NN, etc.
           
-    - role: Teaching Assistant
+    - role: Gradute Teaching Assistant for Special Topics in AI
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Special Topics in Artificial Intelligence
           - Organized weekly paper discussion and assisted students with implementing deep learning models.
    
     - role: Data Science Co-op 
@@ -126,8 +125,7 @@ experiences:
       time: 2018.09 - 2018.12
       company: Northeastern University, Boston, MA   
       details: |
-          - Game Data Science
-          - Edited and reviewed all content related to machine learning theories.
+          - Edited and reviewed all content related to machine learning theories in Game Data Science.
           
     - role: Research Assistant
       time: 2018.04 - 2018.11
