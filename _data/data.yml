@@ -118,7 +118,6 @@ experiences:
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
-          - Best Co-op Prize
           - Conducted research on forecasting physiological parameters with various deep sequence models.
           - Applied Bidirectional LSTMs innovatively to the estimation of left ventricular volume time series.
           - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities in the next hour.
@@ -142,9 +141,12 @@ projects:
     title: Awards/Honors
     intro: 
     assignments:
+      - title: Graduate Fellowship (2019)
+        link: 
+        tagline: 
       - title: 
         link: 
-        tagline: Graduate Fellowship (2019)
+        tagline: Best Co-op Prize (2018)           
       - title: 
         link: 
         tagline: Outstanding Graduate (2017)
