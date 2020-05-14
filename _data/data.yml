@@ -105,9 +105,9 @@ experiences:
       company: Northeastern University, Boston, MA
       details: |
           - Studied the applications of deep sequence models on long-term forecast of patients’ Aortic Pressure.
-          - Conducted comprehensive experiments and evaluations with various deep sequence models, including Vector Regression, Recurrent Seq2Seq, Temporal CNN, Transformer, Multiscale NN, etc.
+          - Conducted comprehensive experiments and evaluations with various traditional and deep sequence models.
           
-    - role: Gradute Teaching Assistant for Special Topics in AI
+    - role: Teaching Assistant for Special Topics in AI
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
