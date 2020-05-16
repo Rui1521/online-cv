@@ -82,7 +82,7 @@ publications:
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: Under review
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2020
         
       - title: Towards Physics-informed Deep Learning for Spatiotemporal Modeling of Turbulent Flows 
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
