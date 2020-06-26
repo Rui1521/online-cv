@@ -82,8 +82,8 @@ publications:
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020;                                   Oral Presentation at Advances in Neural Information Processing Systems (NeurIPS), Machine Learning for
-Physical Sciences workshop, 2019;             Climate Informatics 2019
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020; Oral Presentation at NeurIPS Machine Learning for
+Physical Sciences workshop 2019; Climate Informatics 2019
 
       - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. (*equal contribution)
