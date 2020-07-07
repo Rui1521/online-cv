@@ -12,7 +12,7 @@ sidebar:
     avatar: me.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wang.rui4@northeastern.edu
+    email: ruw020@ucsd.edu
     phone: 
     website: 
     scholar: 
@@ -45,23 +45,27 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a first-year PhD student in Computer Science from [Khoury College](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.khoury.northeastern.edu/), 
-      advised by [Prof. Rose Yu](http://roseyu.com/). I received my Bachelor degree of Science in Applied Mathematics from 
+      I am a second-year PhD student in Computer Science from University of California San Diego advised by [Prof. Rose Yu](http://roseyu.com/), previously at [Northeastern University](https://www.khoury.northeastern.edu).
+      I received my Bachelor degree of Science in Applied Mathematics from 
       [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
       My research interests include spatiotemporal learning and 
       the physics-informed deep learning. Here is my [Google Scholar](https://scholar.google.com/citations?user=JXG5QZwAAAAJ&hl=en).
       
 education:
     - degree: Ph.D. student in CompSci
+      university: UC San Diego
+      time: 2020 - Present
+      
+    - degree: Ph.D. student in CompSci
       university: Northeastern University  
-      time: 2019 - Present
+      time: 2019 - 2020
    
     - degree: M.S. in Data Science
       university: Northeastern University 
       time: 2017 - 2019
   
     - degree: Exchange Student 
-      university: University of California, Berkeley
+      university: UC Berkeley
       time: 2016 
            
     - degree: B.S. in Applied Mathematics
