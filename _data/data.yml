@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a second-year PhD student in Computer Science from University of California San Diego advised by [Prof. Rose Yu](http://roseyu.com/), previously at [Northeastern University](https://www.khoury.northeastern.edu).
+      I am a second-year PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/) advised by [Prof. Rose Yu](http://roseyu.com/), previously at [Northeastern University](https://www.khoury.northeastern.edu).
       I received my Bachelor degree of Science in Applied Mathematics from 
       [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
       My research interests include spatiotemporal learning and 
@@ -56,7 +56,7 @@ education:
       university: UC San Diego
       time: 2020 - Present
       
-    - degree: Ph.D. student in CompSci
+    - degree: Ph.D. student in CompSci (transferred to UCSD)
       university: Northeastern University  
       time: 2019 - 2020
    
