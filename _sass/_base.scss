@@ -215,9 +215,9 @@ p {
 
 
     .publication-title {
-        font-size: 18px;
+        font-size: 25px;
         font-weight: 650;
-        color: $text-color;
+	color: darken($theme-color, 15%);   #color: $text-color;
         margin-bottom: 1px;
     }
     .publication-authors {
