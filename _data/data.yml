@@ -77,11 +77,12 @@ publications:
     intro:
     papers:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
-        link: "#"
+        link: "https://arxiv.org/abs/2002.03061"
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
         conference: Under review
         
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
+        link: "https://arxiv.org/abs/2005.05502"
         authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu.
         conference: Computing in Cardiology 2020
         
@@ -90,7 +91,8 @@ publications:
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
 
-      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data
+      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data  
+        link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330278/"
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. 
         conference: Frontiers in Genetics 2019
         
