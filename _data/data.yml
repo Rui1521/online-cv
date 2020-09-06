@@ -84,10 +84,10 @@ publications:
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
         link: "https://arxiv.org/abs/2005.05502"
         authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu.
-        conference: Computing in Cardiology 2020
+        conference: "Computing in Cardiology 2020"
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
-        link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
+        link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html#"
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
 
