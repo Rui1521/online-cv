@@ -71,30 +71,6 @@ education:
     - degree: B.S. in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
       time: 2013 - 2017
-
-publications:
-    title: Publications
-    intro:
-    papers:
-      - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
-        link: "#https://arxiv.org/abs/2002.03061"
-        authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
-        conference: Under review
-        
-      - title: Aortic Pressure Forecasting with Deep Sequence Learning
-        link: "https://arxiv.org/abs/2005.05502"
-        authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu.
-        conference: "Computing in Cardiology 2020"
-        
-      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
-        link: (https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html)
-        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
-
-      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data  
-        link: "#"
-        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. 
-        conference: Frontiers in Genetics 2019
         
 experiences:
     - role: Applied Scientist Intern
@@ -145,6 +121,30 @@ experiences:
           - Applied Binomial Regression Model and Likelihood Ratio test to finding the comparison group for each section.
           - Evaluated each section based on the Beta-Binomial model and proportions of 5’s and within its comparison group.
           
+publications:
+    title: Publications
+    intro:
+    papers:
+      - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
+        link: "#arxiv.org/abs/2002.03061"
+        authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
+        conference: Under review
+        
+      - title: Aortic Pressure Forecasting with Deep Sequence Learning
+        link: "https://arxiv.org/abs/2005.05502"
+        authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu.
+        conference: "Computing in Cardiology 2020"
+        
+      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
+        link: (https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html)
+        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
+
+      - title: Prediction of Alzheimer's disease-associated genes by integration of GWAS summary data and expression data  
+        link: "#"
+        authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. 
+        conference: Frontiers in Genetics 2019
+        
 projects:
     title: Awards/Honors
     intro: 
