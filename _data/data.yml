@@ -173,7 +173,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Pytorch 
+      - name: Python & Pytorch & R 
         level: 99%
       
       - name: Tensor Flow & Keras
