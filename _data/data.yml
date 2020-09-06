@@ -77,7 +77,7 @@ publications:
     intro:
     papers:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
-        link: "https://arxiv.org/abs/2002.03061"
+        link: "#https://arxiv.org/abs/2002.03061"
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
         conference: Under review
         
