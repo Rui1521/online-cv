@@ -218,12 +218,13 @@ p {
 	font-size: 18px;
         font-weight: 650;
 	color: darken($theme-color, 15%);
-        margin-bottom: 1px;
+        margin-bottom: 2px;
     }
     .publication-authors {
         font-style: italic;
         color: $text-grey;
 	font-weight: 550;
+	font-size: 15px; 
         margin-bottom: 1px;
     }
     .publications-section {
