@@ -76,27 +76,19 @@ experiences:
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
       company: Amazon Web Services, Palo Alto, CA
-      details: |
-         - ODEs-informed Time Series Forecasting.
          
     - role: Machine Learning Research Intern
       time: 2019.05 - 2019.08
       company: Lawrence Berkeley National Laboratory, Berkeley, CA
-      details: |
-          - Researched the challenging task of spatiotemporal modeling of velocity fields for nonlinear turbulent flows.
-          
+               
     - role: Research Assistant 
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
-      details: |
-          - Studied the applications of deep sequence models on long-term forecast of patients’ Aortic Pressure.
-          
+            
     - role: Teaching Assistant for Special Topics in AI
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
-      details: |
-          - Organized weekly paper discussion and assisted students with implementing deep learning models.
-   
+        
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
@@ -108,9 +100,7 @@ experiences:
     - role: Research Assistant
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
-      details: |
-          - Proposed a new scheme for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
-          
+               
 publications:
     title: Publications
     intro:
