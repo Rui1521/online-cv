@@ -14,11 +14,12 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 5%);
+    color: darken($theme-color, 15%);
+    font-weight: 550;
     &:hover {
-	font-weight: 550;
+	font-weight: 600;
         text-decoration: underline;
-        color: darken($theme-color, 15%);	    
+        color: darken($theme-color, 30%);	    
     }
     &:focus {
         text-decoration: none;
