@@ -84,14 +84,12 @@ experiences:
       company: Lawrence Berkeley National Laboratory, Berkeley, CA
       details: |
           - Researched the challenging task of spatiotemporal modeling of velocity fields for nonlinear turbulent flows.
-          - Developed a novel hybrid model, TF-net, that unifies RANS-LES coupling with custom-designed neural networks.
           
     - role: Research Assistant 
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
           - Studied the applications of deep sequence models on long-term forecast of patients’ Aortic Pressure.
-          - Conducted comprehensive experiments and evaluations with various traditional and deep sequence models.
           
     - role: Teaching Assistant for Special Topics in AI
       time: 2019.01 - 2019.04
@@ -102,24 +100,16 @@ experiences:
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
-      details: |
-          - Conducted research on forecasting physiological parameters with various deep sequence models.
-          - Applied Bidirectional LSTMs innovatively to the estimation of left ventricular volume time series.
-          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities in the next hour.
           
     - role: Content Editor 
       time: 2018.09 - 2018.12
       company: Northeastern University, Boston, MA   
-      details: |
-          - Edited and reviewed all content related to machine learning theories in Game Data Science.
           
     - role: Research Assistant
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
           - Proposed a new scheme for systematically evaluating TRACE (Teacher Rating and Course Evaluation) data.
-          - Applied Binomial Regression Model and Likelihood Ratio test to finding the comparison group for each section.
-          - Evaluated each section based on the Beta-Binomial model and proportions of 5’s and within its comparison group.
           
 publications:
     title: Publications
