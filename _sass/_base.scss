@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 16px;
+    font-size: 15px;
     padding: 0px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -14,10 +14,11 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: darken($theme-color, 5%);
     &:hover {
+	font-weight: 550;
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: darken($theme-color, 15%);	    
     }
     &:focus {
         text-decoration: none;
