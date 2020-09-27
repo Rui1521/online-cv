@@ -118,16 +118,16 @@ publications:
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
         conference: Under review
         
+      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
+        link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
+        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
+        
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
         link: "https://arxiv.org/abs/2005.05502"
         authors: Eliza Huang*, Rui Wang*, Uma Chandrasekaran, Rose Yu.
         conference: "Computing in Cardiology 2020"
         
-      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
-        link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
-        authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
-
       - title: Prediction of Alzheimer's Disease-associated Genes by Integration of GWAS Summary Data and Expression data  
         link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330278/"
         authors: Sicheng Hao*, Rui Wang*, Yu Zhang, Hui Zhan. 
