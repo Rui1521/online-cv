@@ -123,10 +123,10 @@ publications:
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
       
-      - title: AutoODE: Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting.
+      - title: AutoODE, Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting.
         link: "https://sites.google.com/nyu.edu/mlph2020/home?authuser=0"
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
-        conference: Oral Presentation at NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
+        conference: Oral Presentation at NeurIPS, Machine Learning in Public Health Workshop, 2020
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
@@ -135,8 +135,8 @@ publications:
         
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
         link: "https://arxiv.org/abs/2005.05502"
-        authors: Eliza Huang*, Rui Wang*, Uma Chandrasekaran, Rose Yu.
-        conference: "Computing in Cardiology 2020"
+        authors: Eliza Huang*, Rui Wang*, Uma Chandrasekaran, Rose Yu. (*equal contribution)
+        conference: Computing in Cardiology 2020
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction  
         link: "https://ml4physicalsciences.github.io/2019/"
