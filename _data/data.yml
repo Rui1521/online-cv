@@ -118,6 +118,16 @@ publications:
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
         conference: Under review
         
+      - title: Learning Dynamical Systems Requires Rethinking Generalization
+        link: "https://inductive-biases.github.io/"
+        authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
+        conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
+      
+      - title: AutoODE: Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting.
+        link: "https://sites.google.com/nyu.edu/mlph2020/home?authuser=0"
+        authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
+        conference: Oral Presentation at NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
+        
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
@@ -128,10 +138,15 @@ publications:
         authors: Eliza Huang*, Rui Wang*, Uma Chandrasekaran, Rose Yu.
         conference: "Computing in Cardiology 2020"
         
+      - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction  
+        link: "https://ml4physicalsciences.github.io/2019/"
+        authors: Rui Wang, Adrian Albert, Karthik Kashinath, Mustafa Mustafa, Rose Yu.
+        conference: Oral Presentation at NeurIPS, Machine Learning for Physical Sciences Workshop, 2019
+        
       - title: Prediction of Alzheimer's Disease-associated Genes by Integration of GWAS Summary Data and Expression data  
         link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330278/"
         authors: Sicheng Hao, Rui Wang, Yu Zhang, Hui Zhan. 
-        conference: Frontiers in Genetics 2019
+        conference: Frontiers in Genetics 2018
         
 projects:
     title: Awards/Honors
