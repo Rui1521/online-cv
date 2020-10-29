@@ -119,7 +119,7 @@ publications:
         conference: Under review
         
       - title: Learning Dynamical Systems Requires Rethinking Generalization
-        link: "https://inductive-biases.github.io/"
+        link: 
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
       
