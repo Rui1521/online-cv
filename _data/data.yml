@@ -123,10 +123,10 @@ publications:
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
       
-      - title: Physics-based vs. Data-driven: A Benchmark Study on COVID-19 Forecasting.
+      - title: Physics-based vs. Data-driven A Benchmark Study on COVID-19 Forecasting.
         link: "https://sites.google.com/nyu.edu/mlph2020/home?authuser=0"
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
-        conference: Oral Presentation at NeurIPS, Machine Learning in Public Health Workshop, 2020
+        conference: Contributed Talk at NeurIPS, Machine Learning in Public Health Workshop, 2020
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
         link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
@@ -141,7 +141,7 @@ publications:
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction  
         link: "https://ml4physicalsciences.github.io/2019/"
         authors: Rui Wang, Adrian Albert, Karthik Kashinath, Mustafa Mustafa, Rose Yu.
-        conference: Oral Presentation at NeurIPS, Machine Learning for Physical Sciences Workshop, 2019
+        conference: Contributed Talk at NeurIPS, Machine Learning for Physical Sciences Workshop, 2019
         
       - title: Prediction of Alzheimer's Disease-associated Genes by Integration of GWAS Summary Data and Expression data  
         link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330278/"
