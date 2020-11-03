@@ -123,7 +123,7 @@ publications:
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
       
-      - title: AutoODE, Bridging Physics-based and Data-driven modeling for COVID-19 Forecasting.
+      - title: Physics-based vs. Data-driven: A Benchmark Study on COVID-19 Forecasting.
         link: "https://sites.google.com/nyu.edu/mlph2020/home?authuser=0"
         authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: Oral Presentation at NeurIPS, Machine Learning in Public Health Workshop, 2020
