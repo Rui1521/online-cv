@@ -113,6 +113,11 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems
+        link: "https://arxiv.org/abs/2011.10616"
+        authors: Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu.
+        conference: Under review
+        
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         link: "https://arxiv.org/abs/2002.03061"
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
@@ -120,12 +125,12 @@ publications:
         
       - title: Learning Dynamical Systems Requires Rethinking Generalization
         link: "https://inductive-biases.github.io/"
-        authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
+        authors: Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: NeurIPS, Interpretable Inductive Bias and Physically Structured Learning Workshop, 2020
       
       - title: Physics-based vs. Data-driven A Benchmark Study on COVID-19 Forecasting.
         link: "https://sites.google.com/nyu.edu/mlph2020/home?authuser=0"
-        authors: Rui Wang, Danielle Robinson, Christos Faloutsos, Yuyang Wang, Rose Yu.
+        authors: Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: Contributed Talk at NeurIPS, Machine Learning in Public Health Workshop, 2020
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction
