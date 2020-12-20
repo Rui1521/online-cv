@@ -156,7 +156,10 @@ publications:
 projects:
     title: Awards/Honors
     intro: 
-    assignments:
+    assignments: 
+      - title: Best Paper Award 
+        link: 
+        tagline: NeurIPS, Machine Learning in Public Health Workshop (2020)
       - title: Student Registration Award 
         link: 
         tagline: KDD (2020)
