@@ -77,37 +77,37 @@ experiences:
       time: 2020.05 - 2020.08
       company: Amazon Web Services, Palo Alto, CA
       details: |
-          - ODEs-informed time series forecasting.
+        
          
     - role: Machine Learning Research Intern
       time: 2019.05 - 2019.08
       company: Lawrence Berkeley National Laboratory, Berkeley, CA
       details: |
-          - Towards Physics-informed Deep Learning for Turbulent Flow Prediction.
+          
                
     - role: Research Assistant 
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Aortic Pressure Forecasting with Deep Sequence Learning
+          
             
     - role: Graduate Teaching Assistant 
       time: 2019.01 - 2019.04
       company: Northeastern University, Boston, MA
       details: |
-          - Special Topics in Artificial Intelligence.      
+             
         
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
       company: Abiomed Inc., Danvers, MA
       details: |
-          - Healthy Heart Index, patients’ survival probabilities prediction.
+         
           
     - role: Research Assistant
       time: 2018.04 - 2018.11
       company: Northeastern University, Boston, MA
       details: |
-          - TRACE (Teacher Rating and Course Evaluation) data evaluation with Bayesian Binomial Regression. 
+          
                
 publications:
     title: Publications
