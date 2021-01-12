@@ -121,7 +121,7 @@ publications:
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         link: "https://arxiv.org/abs/2002.03061"
         authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
-        conference: Under review
+        conference: International Conference on Learning Representation 2021
         
       - title: Learning Dynamical Systems Requires Rethinking Generalization
         link: "https://inductive-biases.github.io/"
