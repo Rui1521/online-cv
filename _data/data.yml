@@ -121,7 +121,7 @@ publications:
       - title: Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems
         link: "https://arxiv.org/abs/2011.10616"
         authors: Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu.
-        conference: Learning for Dynamics & Control Conference (L4DC) 2021
+        conference: Annual Conference on Learning for Dynamics and Control (L4DC), 2021
         
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         link: "https://arxiv.org/abs/2002.03061"
