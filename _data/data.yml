@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ray Wang (王睿)
@@ -52,15 +52,15 @@ career-profile:
       My research interests are in spatiotemporal learning and physics-guided deep learning. Here is my [resume](https://drive.google.com/file/d/1A6CrR0Ae-wF0GktRuU12ScOq8FipAKsw/view?usp=sharing).
       
 education:
-    - degree: Ph.D. student in Computer Science
+    - degree: Ph.D. student in CompSci
       university: UC San Diego
       time: 2020 - Present
       
-    - degree: Ph.D. student in Computer Science
+    - degree: Ph.D. student in CompSci
       university: Northeastern University (transferred to UCSD)
       time: 2019 - 2020
    
-    - degree: Master of Science in Data Science
+    - degree: M.S in Data Science
       university: Northeastern University 
       time: 2017 - 2019
   
@@ -68,7 +68,7 @@ education:
       university: UC Berkeley
       time: 2016 
            
-    - degree: Bachelor of Science in Applied Mathematics
+    - degree: B.S in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
       time: 2013 - 2017
         
@@ -115,7 +115,7 @@ experiences:
           
                
 publications:
-    title: 
+    title: Publications
     intro:
     papers:
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
