@@ -73,6 +73,11 @@ education:
       time: 2013 - 2017
         
 experiences:
+    - role: Research Intern
+      time: 2021.06 - 2021.09
+      company: Lawrence Livermore National Laboratory, Livermore, CA
+      details: |
+      
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
       company: Amazon Web Services, Palo Alto, CA
@@ -110,7 +115,7 @@ experiences:
           
                
 publications:
-    title: Publications
+    title: 
     intro:
     papers:
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
