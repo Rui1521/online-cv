@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ray Wang (王睿)
@@ -45,22 +45,22 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a second-year PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/) advised by [Prof. Rose Yu](http://roseyu.com/), 
+      I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/) advised by [Prof. Rose Yu](http://roseyu.com/), 
       previously at [Northeastern University](https://www.khoury.northeastern.edu).
       I received my Bachelor degree of science in Applied Mathematics from 
       [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
       My research interests are in spatiotemporal learning and physics-guided deep learning. Here is my [resume](https://drive.google.com/file/d/1A6CrR0Ae-wF0GktRuU12ScOq8FipAKsw/view?usp=sharing).
       
 education:
-    - degree: Ph.D. student in CompSci
+    - degree: Ph.D. student in Computer Science
       university: UC San Diego
       time: 2020 - Present
       
-    - degree: Ph.D. student in CompSci 
+    - degree: Ph.D. student in Computer Science
       university: Northeastern University (transferred to UCSD)
       time: 2019 - 2020
    
-    - degree: M.S. in Data Science
+    - degree: Master of Science in Data Science
       university: Northeastern University 
       time: 2017 - 2019
   
@@ -68,7 +68,7 @@ education:
       university: UC Berkeley
       time: 2016 
            
-    - degree: B.S. in Applied Mathematics
+    - degree: Bachelor of Science in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
       time: 2013 - 2017
         
