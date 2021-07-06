@@ -121,7 +121,6 @@ publications:
       - title: Physics-Guided Deep Learning for Dynamical Systems: A Survey
         link: "https://arxiv.org/abs/2107.01272"
         authors: Rui Wang.
-        conference: 
         
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
