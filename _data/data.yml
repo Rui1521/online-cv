@@ -124,7 +124,7 @@ publications:
         
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
-        authors: Rui Wang, Robin Walters, Rose Yu.
+        authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: Under review
         
       - title: Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems
