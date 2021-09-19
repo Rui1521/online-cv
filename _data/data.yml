@@ -118,6 +118,10 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: Towards Carbon Capture Process Optimization with Deep Fluids Surrogates.
+        link: Under Review
+        authors: Brian Bartoldson, Rui Wang, Yucheng Fu, David Widemann, Sam Nguyen, Jie Bao, Zhijie Xu, Brenda Ng.
+        
       - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
         link: "https://arxiv.org/abs/2107.01272"
         authors: Rui Wang, Rose Yu.
