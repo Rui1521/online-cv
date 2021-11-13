@@ -167,7 +167,7 @@ publications:
         
       - title: Aortic Pressure Forecasting with Deep Sequence Learning
         link: "https://arxiv.org/abs/2005.05502"
-        authors: Eliza Huang*, Rui Wang*, Uma Chandrasekaran, Rose Yu. (*equal contribution)
+        authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu. (*equal contribution)
         conference: Computing in Cardiology 2020
         
       - title: Towards Physics-informed Deep Learning for Turbulent Flow Prediction  
