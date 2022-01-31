@@ -119,16 +119,17 @@ publications:
     intro:
     papers:
       
+      - title: Approximately Equivariant Networks for Imperfectly Symmetric Dynamics
+        link: "https://arxiv.org/abs/2201.11969"
+        authors: Rui Wang*, Robin Walters*, Rose Yu.
         
       - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
         link: "https://arxiv.org/abs/2107.01272"
         authors: Rui Wang, Rose Yu.
-        conference: Under review
         
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
         authors: Rui Wang*, Robin Walters*, Rose Yu.
-        conference: Under review
         
       - title: Latent Space Simulation for Carbon Capture Design Optimization.
         link: "https://arxiv.org/pdf/2112.11656.pdf"
