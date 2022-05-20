@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ray Wang (王睿)
-    tagline: Machine Learning PhD student
+    tagline: Machine Learning PhD Candidate
     avatar: WechatIMG181.jpeg #meplace a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a PhD student at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/) advised by [Prof. Rose Yu](http://roseyu.com/), 
+      I am a PhD Candidate at [UC San Diego](https://ucsd.edu/) department of [Computer Science and Engineering](https://cse.ucsd.edu/) advised by [Prof. Rose Yu](http://roseyu.com/), 
       previously at [Northeastern University](https://www.khoury.northeastern.edu).
       I received my Bachelor degree of science in Applied Mathematics from 
       [Huazhong University of Science and Technology](http://english.hust.edu.cn/).
@@ -53,7 +53,7 @@ career-profile:
       and [google scholar](https://scholar.google.com/citations?user=lEmjtfIAAAAJ&hl=en&authuser=1).
       
 education:
-    - degree: Ph.D. student in CompSci
+    - degree: Ph.D. Candidate in CompSci
       university: UC San Diego
       time: 2020 - Present
       
