@@ -75,6 +75,11 @@ education:
         
 experiences:
     - role: Research Intern
+      time: 2022.06 - 2022.09
+      company: Google Research, Sunnyvale, CA
+      details: |
+      
+    - role: Research Intern
       time: 2021.06 - 2021.09
       company: Lawrence Livermore National Laboratory, Livermore, CA
       details: |
