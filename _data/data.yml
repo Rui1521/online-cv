@@ -74,9 +74,9 @@ education:
       time: 2013 - 2017
         
 experiences:
-    - role: Research Intern
+    - role: Research Intern, supervised by Yihe Dong and Sercan Arik.
       time: 2022.06 - 2022.09
-      company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Donf and Sercan Arik.
+      company: Google Cloud AI, Sunnyvale, CA; 
       details: |
           - Long-term nonstationary time series forecasting.
       
@@ -88,7 +88,7 @@ experiences:
    
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
-      company: Amazon Web Services, Palo Alto, CA; supervised by Danielle Maddix, Yuyang Wang.
+      company: Amazon Web Services, Palo Alto, CA; supervised by Danielle Maddix and Yuyang Wang.
       details: |
           - Developed an ODEs-based method for COVID-19 trajectories forecasting.
           - Researched the generalizability of deep learning models on learning non-linear dynamical systems.
