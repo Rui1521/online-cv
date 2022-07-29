@@ -74,17 +74,18 @@ education:
       time: 2013 - 2017
         
 experiences:
-    - role: Research Intern, supervised by Yihe Dong and Sercan Arik.
+    - role: Research Intern
       time: 2022.06 - 2022.09
-      company: Google Cloud AI, Sunnyvale, CA; 
+      company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Dong and Sercan Arik.
       details: |
           - Long-term nonstationary time series forecasting.
       
-    - role: Research Intern
+    - role: Machine Learning Research Intern
       time: 2021.06 - 2021.09
       company: Lawrence Livermore National Laboratory, Livermore, CA; supervised by Brenda Ng.
       details: |
           - Developed neural network surrogate models to inform carbon capture design.
+          - Implemented mesh-based graph neural networks for CFD simulation surrogate development. 
    
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
@@ -93,9 +94,9 @@ experiences:
           - Developed an ODEs-based method for COVID-19 trajectories forecasting.
           - Researched the generalizability of deep learning models on learning non-linear dynamical systems.
          
-    - role: Research Intern
+    - role: Machine Learning Research Intern
       time: 2019.05 - 2019.08
-      company: Berkeley Lab, Berkeley, CA; supervised by Karthik Kashinath, Mustafa Mustafa, Adrian Albert.
+      company: Berkeley Lab, Berkeley, CA; supervised by Karthik Kashinath, Mustafa Mustafa, and Adrian Albert.
       details: |
           - Researched the challenging task of spatiotemporal modeling of nonlinear turbulent flows.
           - Developed TF-net that unifies RANS-LES coupling with custom-designed U-net.
@@ -183,27 +184,30 @@ projects:
     title: Invited Talks
     intro: 
     assignments: 
-      - title: Best Paper Award 
+      - title: M2LInES team 
         link: 
-        tagline: NeurIPS, Machine Learning in Public Health Workshop (2020)
-      - title: Student Registration Award 
+        tagline: Columbia University (07/2022)
+      - title: AI Research Seminar 
         link: 
-        tagline: KDD (2020)
-      - title: Graduate Fellowship 
+        tagline: UC San Diego (02/2022)
+      - title: Scripps Institution of Oceanography 
         link: 
-        tagline: Northeastern University (2019)
-      - title: Best Co-op Prize 
+        tagline: UC San Diego (11/2021)
+      - title: Artificial Intelligence in Astronomy Group 
         link: 
-        tagline: Abiomed Inc. (2018)         
-      - title: Outstanding Undergraduate 
+        tagline: University Of São Paulo (11/2021)
+      - title: Scientific Machine Learning Webinar Series 
         link: 
-        tagline: Huazhong University of Science and Technology (2017)
-      - title: Scholarship for Outstanding Learning 
+        tagline: Carnegie Mellon University (10/2021)         
+      - title: Data Driven Physics Simulation Seminar 
         link: 
-        tagline: Huazhong University of Science and Technology (2014 - 2017)
-      - title: National Scholarship 
+        tagline: Lawrence Livermore National Laboratory (07/2021)
+      - title: Data Science and Machine Learning Seminar
         link: 
-        tagline: Huazhong University of Science and Technology (2014)
+        tagline: Agency for Science, Technology and Research (06/2021)
+      - title: Spatiotemporal Reading Group 
+        link: 
+        tagline: National Energy Research Scientific Computing Center (05/2020)
         
 
 skills:
