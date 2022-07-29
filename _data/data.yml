@@ -110,7 +110,7 @@ experiences:
         
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
-      company: Abiomed Inc., Danvers, MA; supervised by Chen Liu.
+      company: Abiomed Inc., Danvers, MA; supervised by Chen Liu and Erik Kroeker.
       details: |
          - Applied deep sequence models innovatively to the estimation of left ventricular volume.
          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
