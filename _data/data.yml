@@ -76,48 +76,49 @@ education:
 experiences:
     - role: Research Intern
       time: 2022.06 - 2022.09
-      company: Google Research, Sunnyvale, CA
+      company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Donf and Sercan Arik.
       details: |
+          - Long-term nonstationary time series forecasting.
       
     - role: Research Intern
       time: 2021.06 - 2021.09
-      company: Lawrence Livermore National Laboratory, Livermore, CA
+      company: Lawrence Livermore National Laboratory, Livermore, CA; supervised by Brenda Ng.
       details: |
-      
+          - Developed neural network surrogate models to inform carbon capture design.
+   
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
-      company: Amazon Web Services, Palo Alto, CA
+      company: Amazon Web Services, Palo Alto, CA; supervised by Danielle Maddix, Yuyang Wang.
       details: |
-        
+          - Developed an ODEs-based method for COVID-19 trajectories forecasting.
+          - Researched the generalizability of deep learning models on learning non-linear dynamical systems.
          
-    - role: Machine Learning Research Intern
+    - role: Research Intern
       time: 2019.05 - 2019.08
-      company: Lawrence Berkeley National Laboratory, Berkeley, CA
+      company: Berkeley Lab, Berkeley, CA; supervised by Karthik Kashinath, Mustafa Mustafa, Adrian Albert.
       details: |
-          
+          - Researched the challenging task of spatiotemporal modeling of nonlinear turbulent flows.
+          - Developed TF-net that unifies RANS-LES coupling with custom-designed U-net.
                
     - role: Research Assistant 
       time: 2019.01 - 2019.04
-      company: Northeastern University, Boston, MA
+      company: Northeastern University, Boston, MA; supervised by Prof. Rose Yu.
       details: |
+         - Studied long-term forecast of patients’ Aortic Pressure with deep sequence learning.
           
-            
-    - role: Graduate Teaching Assistant 
-      time: 2019.01 - 2019.04
-      company: Northeastern University, Boston, MA
-      details: |
-             
         
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
-      company: Abiomed Inc., Danvers, MA
+      company: Abiomed Inc., Danvers, MA; supervised by Chen Liu.
       details: |
-         
+         - Applied deep sequence models innovatively to the estimation of left ventricular volume.
+         - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
           
     - role: Research Assistant
       time: 2018.04 - 2018.11
-      company: Northeastern University, Boston, MA
+      company: Northeastern University, Boston, MA; supervised by Prof. Mitchell Wand.
       details: |
+         - Proposed a statistical method based on Beta-Binomial model for systematic teacher evaluation.
           
                
 publications:
@@ -179,7 +180,7 @@ publications:
         conference: Computing in Cardiology 2020
         
 projects:
-    title: Awards/Honors
+    title: Invited Talks
     intro: 
     assignments: 
       - title: Best Paper Award 
@@ -209,7 +210,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Pytorch & R 
+      - name: Python & Pytorch & Jax & R 
         level: 99%
       
       - name: Tensor Flow & Keras
