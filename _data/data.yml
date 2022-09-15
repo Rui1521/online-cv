@@ -142,11 +142,6 @@ publications:
         authors: Rui Wang, Robin Walters, Rose Yu.
         conference: International Conference on Machine Learning (ICML) 2022
         
-      - title: Data Augmentation vs. Equivariant Networks, A Theory of Generalization on Dynamics Forecasting
-        link: "https://arxiv.org/abs/2206.09450"
-        authors: Rui Wang, Robin Walters, Rose Yu.
-        conference: ICML Workshop on Principles of Distribution Shift 2022
-        
       - title: Latent Space Simulation for Carbon Capture Design Optimization.
         link: "https://arxiv.org/pdf/2112.11656.pdf"
         authors: Brian Bartoldson, Rui Wang, Yucheng Fu, David Widemann, Sam Nguyen, Jie Bao, Zhijie Xu, Brenda Ng.
@@ -154,7 +149,7 @@ publications:
         
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         link: "https://arxiv.org/abs/2002.03061"
-        authors: Rui Wang*, Robin Walters*, Rose Yu. (*equal contribution)
+        authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: International Conference on Learning Representations (ICLR) 2021
         
       - title: Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems
