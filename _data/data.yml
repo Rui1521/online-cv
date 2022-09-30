@@ -51,7 +51,7 @@ career-profile:
       My research interests are in spatiotemporal learning and [physics-guided deep learning](https://arxiv.org/pdf/2107.01272.pdf). For more details, see my [resume](https://drive.google.com/file/d/1A6CrR0Ae-wF0GktRuU12ScOq8FipAKsw/view?usp=sharing)
       and [google scholar](https://scholar.google.com/citations?user=lEmjtfIAAAAJ&hl=en&authuser=1).
       
-      [I am on job market this year, looking for research positions in industry.](https://drive.google.com/file/d/1A6CrR0Ae-wF0GktRuU12ScOq8FipAKsw/view?usp=sharing)
+      [I am on job market this year, looking for research positions in the industry.](https://drive.google.com/file/d/1A6CrR0Ae-wF0GktRuU12ScOq8FipAKsw/view?usp=sharing)
       
 education:
     - degree: Ph.D. Candidate in CompSci
@@ -79,7 +79,8 @@ experiences:
       time: 2022.06 - 2022.09
       company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Dong and Sercan O.Arik.
       details: |
-          - Long-term nonstationary time series forecasting.
+          - Investigated deep leaning approaches for forecasting highly nonstationary time series.
+          - Proposed KNF that achieves SOTA performance on many financial times series datasets.
       
     - role: Machine Learning Research Intern
       time: 2021.06 - 2021.09
@@ -128,15 +129,15 @@ publications:
     intro:
     papers:
         
-      - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
-        link: "https://arxiv.org/abs/2107.01272"
-        authors: Rui Wang, Rose Yu.
-        conference: In submission to ACM Computing Survey
-        
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
         authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: Advances in Neural Information Processing Systems (NeurIPS) 2022
+        
+      - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
+        link: "https://arxiv.org/abs/2107.01272"
+        authors: Rui Wang, Rose Yu.
+        conference: In submission to ACM Computing Survey
         
       - title: Approximately Equivariant Networks for Imperfectly Symmetric Dynamics
         link: "https://arxiv.org/abs/2201.11969"
