@@ -128,6 +128,11 @@ publications:
     title: Selected Publications
     intro:
     papers:
+      
+      - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
+        link: http://arxiv.org/abs/2210.03675
+        authors: Rui Wang, Yihe Dong, Sercan O Arik, Rose Yu.
+        conference:
         
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
