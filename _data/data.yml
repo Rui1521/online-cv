@@ -182,7 +182,10 @@ publications:
 projects:
     title: Invited Talks
     intro: 
-    assignments: 
+    assignments:
+      - title: Frontiers of Machine Learning and Artificial Intelligence
+        link: 
+        tagline: University of Southern California (11/2022)
       - title: M2LInES project team 
         link: 
         tagline: Columbia University (07/2022)
