@@ -78,9 +78,9 @@ experiences:
     - role: Research Intern
       time: 2022.06 - 2022.10
       company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Dong and Sercan O.Arik.
-      details: |
-          - Investigated deep leaning approaches for forecasting highly nonstationary time series.
-          - Proposed KNF that achieves SOTA performance on many financial times series datasets.
+#       details: |
+#           - Investigated deep leaning approaches for forecasting highly nonstationary time series.
+#           - Proposed KNF that achieves SOTA performance on many financial times series datasets.
       
     - role: Machine Learning Research Intern
       time: 2021.06 - 2021.09
