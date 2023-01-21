@@ -76,7 +76,7 @@ education:
         
 experiences:
     - role: Research Intern
-      time: 2022.06 - Present
+      time: 2022.06 - 2022.10
       company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Dong and Sercan O.Arik.
       details: |
           - Investigated deep leaning approaches for forecasting highly nonstationary time series.
@@ -132,7 +132,7 @@ publications:
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
         link: http://arxiv.org/abs/2210.03675
         authors: Rui Wang, Yihe Dong, Sercan O Arik, Rose Yu.
-        conference:
+        conference: International Conference on Learning Representations (ICLR) 2023
         
       - title: Meta-Learning Dynamics Forecasting Using Task Inference
         link: "https://arxiv.org/abs/2102.10271"
@@ -180,7 +180,7 @@ publications:
         conference: Computing in Cardiology 2020
         
 projects:
-    title: Invited Talks
+    title: Selected Invited Talks
     intro: 
     assignments:
       - title: Frontiers of Machine Learning and Artificial Intelligence
