@@ -179,40 +179,40 @@ publications:
         authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu. 
         conference: Computing in Cardiology 2020
         
-projects:
-    title: Selected Invited Talks
-    intro: 
-    assignments:
-      - title: Frontiers of Machine Learning and Artificial Intelligence
-        link: 
-        tagline: University of Southern California (11/2022)
-      - title: Deep Learning with Low-Dimensional Models Symposium
-        link: 
-        tagline: SIAM Conference (09/2022)
-      - title: M2LInES project team 
-        link: 
-        tagline: Columbia University (07/2022)
-      - title: AI Research Seminar 
-        link: 
-        tagline: UC San Diego (02/2022)
-      - title: Scripps Institution of Oceanography 
-        link: 
-        tagline: UC San Diego (11/2021)
-      - title: Artificial Intelligence in Astronomy Group 
-        link: 
-        tagline: University Of São Paulo (11/2021)
-      - title: Scientific Machine Learning Webinar Series 
-        link: 
-        tagline: Carnegie Mellon University (10/2021)         
-      - title: Data Driven Physics Simulation Seminar 
-        link: 
-        tagline: Lawrence Livermore National Laboratory (07/2021)
-      - title: Data Science and Machine Learning Seminar
-        link: 
-        tagline: Agency for Science, Technology and Research (06/2021)
-      - title: Spatiotemporal Reading Group 
-        link: 
-        tagline: National Energy Research Scientific Computing Center (05/2020)
+# projects:
+#     title: Selected Invited Talks
+#     intro: 
+#     assignments:
+#       - title: Frontiers of Machine Learning and Artificial Intelligence
+#         link: 
+#         tagline: University of Southern California (11/2022)
+#       - title: Deep Learning with Low-Dimensional Models Symposium
+#         link: 
+#         tagline: SIAM Conference (09/2022)
+#       - title: M2LInES project team 
+#         link: 
+#         tagline: Columbia University (07/2022)
+#       - title: AI Research Seminar 
+#         link: 
+#         tagline: UC San Diego (02/2022)
+#       - title: Scripps Institution of Oceanography 
+#         link: 
+#         tagline: UC San Diego (11/2021)
+#       - title: Artificial Intelligence in Astronomy Group 
+#         link: 
+#         tagline: University Of São Paulo (11/2021)
+#       - title: Scientific Machine Learning Webinar Series 
+#         link: 
+#         tagline: Carnegie Mellon University (10/2021)         
+#       - title: Data Driven Physics Simulation Seminar 
+#         link: 
+#         tagline: Lawrence Livermore National Laboratory (07/2021)
+#       - title: Data Science and Machine Learning Seminar
+#         link: 
+#         tagline: Agency for Science, Technology and Research (06/2021)
+#       - title: Spatiotemporal Reading Group 
+#         link: 
+#         tagline: National Energy Research Scientific Computing Center (05/2020)
         
 
 # skills:
