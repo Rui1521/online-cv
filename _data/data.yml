@@ -20,7 +20,7 @@ sidebar:
     github: Rui1521
     gitlab:
     bitbucket:
-    twitter: @Rayruw
+    twitter: '@Rayruw'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -54,25 +54,17 @@ career-profile:
       I will join [Prof. Tess Smidt's group](https://blondegeek.github.io/) as a postdoctoral researcher at MIT in August. 
       
 education:
-    - degree: Ph.D. Candidate in CompSci
+    - degree: Ph.D. in Computer Science
       university: UC San Diego
-      time: 2020 - Present
+      time: 2023
       
-    - degree: Ph.D. Student in CompSci
-      university: Northeastern University (transferred to UCSD)
-      time: 2019 - 2020
-   
     - degree: M.S in Data Science
       university: Northeastern University 
-      time: 2017 - 2019
-  
-    - degree: Exchange Student 
-      university: UC Berkeley
-      time: 2016 
+      time: 2019
            
     - degree: B.S in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
-      time: 2013 - 2017
+      time: 2017
         
 experiences:
     - role: Research Intern
