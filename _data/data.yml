@@ -118,7 +118,7 @@ experiences:
                
 publications:
     title: Selected Publications
-    intro: Google Scholar
+    intro: 
     papers:
       
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
