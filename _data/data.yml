@@ -56,15 +56,15 @@ career-profile:
 education:
     - degree: Ph.D. in Computer Science
       university: UC San Diego
-      time: 2023
+      time: 2019 - 2023
       
     - degree: M.S in Data Science
       university: Northeastern University 
-      time: 2019
+      time: 2017 - 2019
            
     - degree: B.S in Applied Mathematics
       university: Huazhong Uni. of Sci. and Tech.
-      time: 2017
+      time: 2013 - 2017
         
 experiences:
     - role: Research Intern
