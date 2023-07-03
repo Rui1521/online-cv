@@ -32,15 +32,15 @@ sidebar:
 #       - idiom: 
 #         level: 
 
-    interests:
-      - item: Basketball
-        link:
+    # interests:
+    #   - item: 
+    #     link:
 
-      - item: Weight Training
-        link:
+    #   - item:  Training
+    #     link:
 
-      - item: 
-        link:
+    #   - item: 
+    #     link:
 
 career-profile:
     title: BIOGRAPHY
