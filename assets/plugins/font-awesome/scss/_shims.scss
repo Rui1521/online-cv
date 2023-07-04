@@ -192,6 +192,12 @@
 }
 .#{$fa-css-prefix}.#{$fa-css-prefix}-linkedin-square:before { content: fa-content($fa-var-linkedin); }
 
+.#{$fa-css-prefix}.#{$fa-css-prefix}-scholar {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+.#{$fa-css-prefix}.#{$fa-css-prefix}-scholar:before { content: fa-content($fa-var-scholar); }
+
 .#{$fa-css-prefix}.#{$fa-css-prefix}-thumb-tack:before { content: fa-content($fa-var-thumbtack); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-external-link:before { content: fa-content($fa-var-external-link-alt); }
