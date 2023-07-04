@@ -6998,6 +6998,17 @@ linkedin:
   styles:
     - brands
   unicode: f08c
+scholar:
+  changes:
+    - '1'
+    - 5.0.0
+  label: Scholar
+  search:
+    terms:
+      - scholar
+  styles:
+    - brands
+  unicode: f08c
 linkedin-in:
   changes:
     - '2'
