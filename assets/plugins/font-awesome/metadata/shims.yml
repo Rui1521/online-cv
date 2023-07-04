@@ -168,6 +168,9 @@ line-chart:
 linkedin:
   name: linkedin-in
   prefix: fab
+scholar:
+  name: google-scholar
+  prefix: fab
 linkedin-square:
   name: linkedin
   prefix: fab
