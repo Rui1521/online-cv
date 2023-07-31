@@ -120,7 +120,12 @@ publications:
     title: Selected Publications
     intro: 
     papers:
-      
+
+      - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
+        link: "https://arxiv.org/abs/2107.01272"
+        authors: Rui Wang, Rose Yu.
+        conference: In submission to ACM Computing Survey
+        
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
         link: https://github.com/google-research/google-research/tree/master/KNF
         authors: Rui Wang, Yihe Dong, Sercan O Arik, Rose Yu.
@@ -130,11 +135,6 @@ publications:
         link: "https://arxiv.org/abs/2102.10271"
         authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: Advances in Neural Information Processing Systems (NeurIPS) 2022
-        
-      - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
-        link: "https://arxiv.org/abs/2107.01272"
-        authors: Rui Wang, Rose Yu.
-        conference: In submission to ACM Computing Survey
         
       - title: Approximately Equivariant Networks for Imperfectly Symmetric Dynamics
         link: "https://arxiv.org/abs/2201.11969"
@@ -166,10 +166,10 @@ publications:
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
         
-      - title: Aortic Pressure Forecasting with Deep Sequence Learning
-        link: "https://arxiv.org/abs/2005.05502"
-        authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu. 
-        conference: Computing in Cardiology 2020
+      # - title: Aortic Pressure Forecasting with Deep Sequence Learning
+      #   link: "https://arxiv.org/abs/2005.05502"
+      #   authors: Rui Wang*, Eliza Huang*, Uma Chandrasekaran, Rose Yu. 
+      #   conference: Computing in Cardiology 2020
         
 # projects:
 #     title: Selected Invited Talks
