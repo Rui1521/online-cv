@@ -45,11 +45,11 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-    I am a Postdoctoral Researcher at [MIT EECS](https://www.eecs.mit.edu/), supervised by [Prof. Tess Smidt](https://blondegeek.github.io/). I completed my Doctorate in Computer Science at UC San Diego under the guidance of [Prof. Rose Yu](http://roseyu.com/).
+      I am a Postdoctoral Researcher at [MIT EECS](https://www.eecs.mit.edu/), supervised by [Prof. Tess Smidt](https://blondegeek.github.io/). I completed my Doctorate in Computer Science at UC San Diego under the guidance of [Prof. Rose Yu](http://roseyu.com/).
     
-    My research primarily lies in deep learning, especially for spatiotemporal data. In particular, I'm interested into building accurate, interpretable and generalizable deep forecasting models for large-scale real-world data. My works have been applied to forecasting spatiotemporal systems in finance, epidemiology, healthcare, traffic and physical sciences.
+      My research primarily lies in deep learning, especially for spatiotemporal data. In particular, I'm interested into building accurate, interpretable and generalizable deep forecasting models for large-scale real-world data. My works have been applied to forecasting spatiotemporal systems in finance, epidemiology, healthcare, traffic and physical sciences.
     
-    For more details, see my [resume](https://drive.google.com/file/d/1kPPtn9SHSO0JKbxg7Jp8d7GSBaL5UtGF/view?usp=sharing) and [google scholar](https://scholar.google.com/citations?user=lEmjtfIAAAAJ&hl=en&authuser=1).
+      For more details, please see my [Resume](https://drive.google.com/file/d/1kPPtn9SHSO0JKbxg7Jp8d7GSBaL5UtGF/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?user=lEmjtfIAAAAJ&hl=en&authuser=1).
       
 education:
     - degree: Ph.D. in Computer Science
