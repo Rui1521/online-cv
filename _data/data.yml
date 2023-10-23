@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Rui (Ray) Wang
     tagline: PhD Candidate
-    avatar: IMG_5057.jpg #meplace a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: me.JPG #meplace a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rayruw@mit.edu
