@@ -123,12 +123,12 @@ publications:
       - title: Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution
         link: "https://arxiv.org/abs/2310.02299"
         authors: Rui Wang, Robin Walters, Tess E.Smidt.
-        conference: Working in progress
+        conference: Preprint
 
       - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
         link: "https://arxiv.org/abs/2107.01272"
         authors: Rui Wang, Rose Yu.
-        conference: In submission to ACM Computing Survey
+        conference: ACM Computing Survey
         
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
         link: https://github.com/google-research/google-research/tree/master/KNF
