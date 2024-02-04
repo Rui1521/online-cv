@@ -122,7 +122,7 @@ publications:
     papers:
       - title: Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution
         link: "https://arxiv.org/abs/2310.02299"
-        authors: Rui Wang, Robin Walters, Tess E.Smidt.
+        authors: Rui Wang, Elyssa Hofgard, Han Gao, Robin Walters, Tess E.Smidt.
         conference: Preprint
 
       - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
