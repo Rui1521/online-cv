@@ -68,55 +68,31 @@ education:
 experiences:
     - role: Postdoctoral Researcher
       time: 2023.08 - Present
-      company: Massachusetts Institute of Technology, Cambridge, MA; supervised by Prof. Tess Smidt.
+      company: Massachusetts Institute of Technology; supervised by Prof. Tess Smidt.
       
     - role: Research Intern
       time: 2022.06 - 2022.10
-      company: Google Cloud AI, Sunnyvale, CA; supervised by Yihe Dong and Sercan O.Arik.
-#       details: |
-#           - Investigated deep leaning approaches for forecasting highly nonstationary time series.
-#           - Proposed KNF that achieves SOTA performance on many financial times series datasets.
-      
+      company: Google Cloud AI; supervised by Yihe Dong and Sercan O.Arik.
+
     - role: Machine Learning Research Intern
       time: 2021.06 - 2021.09
-      company: Lawrence Livermore National Laboratory, Livermore, CA; supervised by Brenda Ng.
-#       details: |
-#           - Developed neural network surrogate models to inform carbon capture design.
-#           - Implemented mesh-based graph neural networks for CFD simulation surrogate development. 
-   
+      company: Lawrence Livermore National Laboratory; supervised by Brenda Ng.
+
     - role: Applied Scientist Intern
       time: 2020.05 - 2020.08
-      company: Amazon Web Services, Palo Alto, CA; supervised by Danielle Maddix and Yuyang Wang.
-#       details: |
-#           - Developed an ODEs-based method for COVID-19 trajectories forecasting.
-#           - Researched the generalizability of deep learning models on learning non-linear dynamical systems.
-         
+      company: Amazon Web Services; supervised by Danielle Maddix and Yuyang Wang.
+
     - role: Machine Learning Research Intern
       time: 2019.05 - 2019.08
-      company: Berkeley Lab, Berkeley, CA; supervised by Karthik Kashinath, Mustafa Mustafa, and Adrian Albert.
-#       details: |
-#           - Researched the challenging task of spatiotemporal modeling of nonlinear turbulent flows.
-#           - Developed TF-net that unifies RANS-LES coupling with custom-designed U-net.
-               
-#     - role: Research Assistant 
-#       time: 2019.01 - 2019.04
-#       company: Northeastern University, Boston, MA; supervised by Prof. Rose Yu.
-#       details: |
-#          - Studied long-term forecast of patients’ Aortic Pressure with deep sequence learning.
-          
+      company: Berkeley Lab; supervised by Karthik Kashinath, Mustafa Mustafa, and Adrian Albert.
         
     - role: Data Science Co-op 
       time: 2018.07 - 2018.12
-      company: Abiomed Inc., Danvers, MA; supervised by Chen Liu and Erik Kroeker.
+      company: Abiomed Inc.; supervised by Chen Liu and Erik Kroeker.
 #       details: |
 #          - Applied deep sequence models innovatively to the estimation of left ventricular volume.
 #          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
-          
-#     - role: Research Assistant
-#       time: 2018.04 - 2018.11
-#       company: Northeastern University, Boston, MA; supervised by Prof. Mitchell Wand.
-#       details: |
-#          - Proposed a statistical method based on Beta-Binomial model for systematic teacher evaluation.
+
           
                
 publications:
@@ -128,10 +104,10 @@ publications:
         authors: Rui Wang, Elyssa Hofgard, Han Gao, Robin Walters, Tess E.Smidt.
         conference: International Conference on Machine Learning (ICML) 2024
 
-      - title: Physics-Guided Deep Learning for Dynamical Systems, A Survey
+      - title: Physics-Guided Deep Learning for Dynamical Systems
         link: "https://arxiv.org/abs/2107.01272"
         authors: Rui Wang, Rose Yu.
-        conference: ACM Computing Survey
+        conference: ACM Computing Surveys
         
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
         link: https://github.com/google-research/google-research/tree/master/KNF
@@ -148,17 +124,12 @@ publications:
         authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: International Conference on Machine Learning (ICML) 2022
         
-      - title: Latent Space Simulation for Carbon Capture Design Optimization.
-        link: "https://arxiv.org/pdf/2112.11656.pdf"
-        authors: Brian Bartoldson, Rui Wang, Yucheng Fu, David Widemann, Sam Nguyen, Jie Bao, Zhijie Xu, Brenda Ng.
-        conference: Annual Conference on Innovative Applications of Artificial Intelligence (IAAI) 2022
-        
       - title: Incorporating Symmetry into Deep Dynamics Models for Improved Generalization
         link: "https://arxiv.org/abs/2002.03061"
         authors: Rui Wang*, Robin Walters*, Rose Yu.
         conference: International Conference on Learning Representations (ICLR) 2021
         
-      - title: Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems
+      - title: Bridging Physics-based and Data-driven Modeling for Learning Dynamical Systems
         link: "https://arxiv.org/abs/2011.10616"
         authors: Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu.
         conference: Annual Conference on Learning for Dynamics and Control (L4DC) 2021
