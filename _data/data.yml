@@ -14,6 +14,7 @@ sidebar:
     # Sidebar links
     email: rayruw@mit.edu
     phone: 
+    goodreads: Resume
     website: Google Scholar 
     # scholar: lEmjtfIAAAAJ&hl=en
     linkedin: LinkedIn
@@ -23,7 +24,7 @@ sidebar:
     twitter: Twitter #'@Rayruw'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: Resume
+    
     
 #     languages:
 #       - idiom: 
