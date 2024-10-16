@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rui (Ray) Wang
-    tagline: Postdoctoral Researcher
+    tagline: AI Scientist
     avatar: me.JPG #meplace a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,12 +46,9 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am a Postdoctoral Researcher at MIT EECS, advised by [Prof. Tess Smidt](https://blondegeek.github.io/). I completed my Doctorate in Computer Science at UC San Diego with [Prof. Rose Yu](http://roseyu.com/).
-    
-      My research primarily lies in deep learning, especially for spatiotemporal data. In particular, I'm interested in building accurate, interpretable, and generalizable deep forecasting models for large-scale real-world data. My works have been applied to forecasting spatiotemporal systems in finance, epidemiology, healthcare, traffic and physical sciences.
+      I am an AI Research Scientist at [GE Healthcare](https://www.gehealthcare.com/). Before that, I was fortunate to work as a Postdoctoral Researcher at [MIT](https://www.eecs.mit.edu/), under the guidance of [Prof. Tess Smidt](https://blondegeek.github.io/). I completed my Ph.D. in Computer Science at UC San Diego, where I had the privilege of being advised by [Prof. Rose Yu](http://roseyu.com/).
 
-      Currently, I’m actively working on designing equivariant neural nets that preserve (approximate) symmetries as well as symmetry-breaking factor discovery problems. 
-      
+      My research spans AI for healthcare, AI for science, geometric deep learning, and spatiotemporal modeling, with a focus on integrating scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization for large-scale complex tasks.
 education:
     - degree: Ph.D. in Computer Science
       university: UC San Diego
@@ -65,49 +62,31 @@ education:
       university: Huazhong Uni. of Sci. and Tech.
       time: 2013 - 2017
         
-experiences:
-    - role: Postdoctoral Researcher
-      time: 2023.08 - Present
-      company: Massachusetts Institute of Technology; supervised by Prof. Tess Smidt.
-      
-    - role: Research Intern
-      time: 2022.06 - 2022.10
-      company: Google Cloud AI; supervised by Yihe Dong and Sercan O.Arik.
 
-    - role: Machine Learning Research Intern
-      time: 2021.06 - 2021.09
-      company: Lawrence Livermore National Laboratory; supervised by Brenda Ng.
-
-    - role: Applied Scientist Intern
-      time: 2020.05 - 2020.08
-      company: Amazon Web Services; supervised by Danielle Maddix and Yuyang Wang.
-
-    - role: Machine Learning Research Intern
-      time: 2019.05 - 2019.08
-      company: Berkeley Lab; supervised by Karthik Kashinath, Mustafa Mustafa, and Adrian Albert.
-        
-    - role: Data Science Co-op 
-      time: 2018.07 - 2018.12
-      company: Abiomed Inc.; supervised by Chen Liu and Erik Kroeker.
-#       details: |
-#          - Applied deep sequence models innovatively to the estimation of left ventricular volume.
-#          - Created Healthy Heart Index based on SVM for predicting patients’ survival probabilities.
-
-          
                
 publications:
     title: Selected Publications
     intro: 
     papers:
+      - title: Segment as You Wish - Free-Form Language-Based Segmentation for Medical Images.
+        link: "https://rui1521.github.io/online-cv/"
+        authors: Longchao Da*, Rui Wang*, Xiaojian Xu, Parminder Bhatia, Taha Kass-Hout, Hua Wei, Cao Xiao. 
+        conference: Preprint
+        
+      - title: A Recipe for Charge Density Prediction
+        link: "https://arxiv.org/abs/2405.19276"
+        authors: Xiang Fu, Andrew Rosen, Kyle Bystrom, Rui Wang, Albert Musaelian, Boris Kozinsky, Tess Smidt, Tommi Jaakkola.
+        conference: Advances in Neural Information Processing Systems (NeurIPS) 2024
+        
       - title: Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution
         link: "https://arxiv.org/abs/2310.02299"
         authors: Rui Wang, Elyssa Hofgard, Han Gao, Robin Walters, Tess E.Smidt.
         conference: International Conference on Machine Learning (ICML) 2024
 
-      - title: Physics-Guided Deep Learning for Dynamical Systems
-        link: "https://arxiv.org/abs/2107.01272"
-        authors: Rui Wang, Rose Yu.
-        conference: ACM Computing Surveys
+      - title: Learning Dynamical Systems from Data: An Introduction to Physics-Guided Deep Learning
+        link: "https://www.pnas.org/doi/abs/10.1073/pnas.2311808121"
+        authors: Rose Yu, Rui Wang.
+        conference: Proceedings of the National Academy of Sciences (PNAS) 2024
         
       - title: Koopman Neural Forecaster for Time Series with Temporal Distribution Shifts
         link: https://github.com/google-research/google-research/tree/master/KNF
@@ -138,7 +117,37 @@ publications:
         link: "https://ucsdml.github.io/jekyll/update/2020/08/23/TF-Net.html"
         authors: Rui Wang, Karthik Kashinath, Mustafa Mustafa, Adrian Albert, Rose Yu.
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020
+
+experiences:
+    - role: AI Scientist
+      time: 2024.05 - Present
+      company: GE Healthcare
+      
+    - role: Postdoctoral Researcher
+      time: 2023.08 - Present
+      company: Massachusetts Institute of Technology; supervised by Prof. Tess Smidt.
+      
+    - role: Research Intern
+      time: 2022.06 - 2022.10
+      company: Google Cloud AI; supervised by Yihe Dong and Sercan O.Arik.
+
+    - role: Machine Learning Research Intern
+      time: 2021.06 - 2021.09
+      company: Lawrence Livermore National Laboratory; supervised by Brenda Ng.
+
+    - role: Applied Scientist Intern
+      time: 2020.05 - 2020.08
+      company: Amazon Web Services; supervised by Danielle Maddix and Yuyang Wang.
+
+    - role: Machine Learning Research Intern
+      time: 2019.05 - 2019.08
+      company: Berkeley Lab; supervised by Karthik Kashinath, Mustafa Mustafa, and Adrian Albert.
         
+    - role: Data Science Co-op 
+      time: 2018.07 - 2018.12
+      company: Abiomed Inc.; supervised by Chen Liu and Erik Kroeker.
+
+          
 # projects:
 #     title: Selected Invited Talks
 #     intro: 
