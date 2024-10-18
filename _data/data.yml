@@ -69,7 +69,7 @@ publications:
     intro: 
     papers:
       - title: Segment as You Wish - Free-Form Language-Based Segmentation for Medical Images.
-        link: "https://rui1521.github.io/online-cv/"
+        link: "https://arxiv.org/abs/2410.12831"
         authors: Longchao Da*, Rui Wang*, Xiaojian Xu, Parminder Bhatia, Taha Kass-Hout, Hua Wei, Cao Xiao. 
         conference: Preprint
         
