@@ -48,7 +48,7 @@ career-profile:
     summary: |
       I am an Applied Scientist at Amazon. Before that, I was fortunate to work as a Postdoc at MIT, under the guidance of Prof. Tess Smidt. I completed my Ph.D. in Computer Science at UC San Diego, where I had the privilege of being advised by Prof. Rose Yu. Throughout my Ph.D. studies, I had the opportunity to work as a research intern at Google Cloud AI, AWS, Berkeley Lab, and Lawrence Livermore National Lab.
 
-      My research spans AI for science, geometric deep learning, and spatiotemporal modeling, with a focus on integrating scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization for large-scale complex tasks.
+      My research spans AI for science, geometric deep learning, and spatiotemporal forecasting, with a focus on integrating prior scientific knowledge into deep learning models to enhance their accuracy, interpretability, and generalization ability for large-scale complex tasks.
 education:
     - degree: Ph.D. in Computer Science
       university: UC San Diego
