@@ -71,7 +71,7 @@ publications:
       - title: Segment as You Wish - Free-Form Language-Based Segmentation for Medical Images.
         link: "https://longchaoda.github.io/segmentAsYouWish.github.io/"
         authors: Longchao Da*, Rui Wang*, Xiaojian Xu, Parminder Bhatia, Taha Kass-Hout, Hua Wei, Cao Xiao. 
-        conference: Preprint
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
         
       - title: A Recipe for Charge Density Prediction
         link: "https://arxiv.org/abs/2405.19276"
