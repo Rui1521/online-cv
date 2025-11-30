@@ -76,7 +76,7 @@ publications:
       - title: Time Series Forecastability Measures.
         link: "https://www.amazon.science/publications/time-series-forecastability-measures"
         authors: Rui Wang, Steven Klee, Alexis Roos. 
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) Workshop on AI for Supply Chain 2025
+        conference: KDD Workshop on AI for Supply Chain 2025
         
       - title: A Recipe for Charge Density Prediction
         link: "https://arxiv.org/abs/2405.19276"
