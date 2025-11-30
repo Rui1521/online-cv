@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: BIOGRAPHY
     summary: |
-      I am an Applied Scientist at Amazon. Before joining Amazon, I worked as an AI Scientist at GE Healthcare. I completed my postdoc at MIT under the guidance of Prof. Tess Smidt and obtained my Ph.D. in Computer Science from UC San Diego, where I was advised by Prof. Rose Yu. During my Ph.D. studies, I also had the opportunity to work as a research intern at Google Cloud AI, AWS, Berkeley Lab, and Lawrence Livermore National Lab.
+      I am an Applied Scientist at Amazon Web Services. Before joining Amazon, I worked as an AI Scientist at GE Healthcare. I completed my postdoc at MIT under the guidance of Prof. Tess Smidt and obtained my Ph.D. in Computer Science from UC San Diego, where I was advised by Prof. Rose Yu. During my Ph.D. studies, I also had the opportunity to work as a research intern at Google Cloud AI, AWS, Berkeley Lab, and Lawrence Livermore National Lab.
 
       My research spans agentic AI, multimodal learning, forecasting, and geometric deep learning, with a central focus on integrating prior domain knowledge into deep learning models to improve their accuracy, interpretability, and generalization for large-scale, complex tasks.
 education:
