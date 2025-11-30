@@ -73,6 +73,11 @@ publications:
         authors: Longchao Da*, Rui Wang*, Xiaojian Xu, Parminder Bhatia, Taha Kass-Hout, Hua Wei, Cao Xiao. 
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
 
+      - title: Physics-Guided Deep Learning for Dynamical Systems - A Survey.
+        link: "https://dl.acm.org/doi/10.1145/3766887"
+        authors: Rui Wang, Rose Yu. 
+        conference: ACM Computing Surveys 2025 
+
       - title: Time Series Forecastability Measures.
         link: "https://www.amazon.science/publications/time-series-forecastability-measures"
         authors: Rui Wang, Steven Klee, Alexis Roos. 
@@ -206,4 +211,5 @@ publications:
 #         level: 30%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
